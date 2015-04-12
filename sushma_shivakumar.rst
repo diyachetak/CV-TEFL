@@ -1,10 +1,19 @@
-About me:
+:css: hovercraft.css
+
+About me
 =========
 
+:data-x: 0
+:data-y: 2500
+:data-z: 4000
+:data-rotate-x: 90
+
 **Name:** Sushma Shivakumar
+
 **Born:** 8th April 1984
-**Phone:** +420727902481
+
 **Email:** gssush@gmail.com
+
 **City:** Brno, Czech Republic
 
 -----------
@@ -12,38 +21,46 @@ About me:
 Academic qualifications
 =======================
 
-* English has been in my academic curriculum since childhood. I have completed Bachelor of Engineering in Information Science from a renowned University of India. The medium of my education was in English.
+* Studied English as second language during my schooling and it has been the medium of study since high school till bachelor degree. 
 
-* Academic project thesis about “Image Security using Cryptography” is in English 
+* Completed bachelor degree in *Information Science & Engineering* from a renowned University of India. The medium of study was in English.
 
-* I have completed 20 hours of TEFL classroom course at Norwich, UK. Currently pursuing professional TEFL examination  (Teaching English as Foreign Language)
+* Academic degree project thesis about “Image Security using Cryptography” was delivered in English 
 
-**Hobbies:** Reading, Writing, swimming, painting, dance and music
+* Completed 20 hours of TEFL classroom course at Norwich, UK. Currently pursuing professional TEFL examination  (Teaching English as Foreign Language)
+
+**Hobbies:** Reading Books and Articles, Writing, Swimming, Painting, Dance and Music
 
 -----------
 
+:id: ThreeD
+:data-y: r1200
+:data-rotate-x: 180
+
+
 Professional Experience
 =======================
-* 8 years of IT experience
+* Around 8 years of experience in IT industry as Software Engineer
 
-* started my carrier on 2006
+* The routine dealings at work like project discussions, training, mentoring, business meetings and presentations were carried out in English
 
-* dealing in english. Project work, business meetings and presentations. Discussions and mentoring of  the team
+* Delivered good technical documentations and presentations for the team and clients as part of my work 
 
-* delivered lot of technical documentations as part of my work 
+* Appreciation received for strong communication skills from business stakeholders
 
-* appreciation received for the strong communication skills
+* Experience in Leading IT initiatives like systems thinking, agile implementation and six sigma practices
 
-* lead initiatives like systems thinking, agile implementation and six sigma practices
+* Carried out successful web page translation from Czech to English for a local business in Brno
 
-* Web page translation for local business
-
-* Teaching english as volunteer in
+* Teaching english as volunteer in *Jihomoravské regionální centrum na podporu integrace cizinců, Brno*
 
 -----------
 
 Why me?
 =======
-* Proficiency i have gained through my academic and professional carrier qualify me for teaching English at University and Business level
-* Expertise in business presentations, technical documentation
+* Proficiency in general and business English
+* Strong communication skills and expertise in client interactions, discussions business stakeholders and team
+* Work experience in dealing with cleints directly at onsite in UK for about 3 years
+* Good exposure to the business needs and cleint expectations 
+* Expertise in business presentations and technical documentations
 
